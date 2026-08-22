@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waterlooplumbingpros.ca/sitemap-index.xml
